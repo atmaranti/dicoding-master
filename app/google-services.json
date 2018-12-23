@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403487076076",
+    "firebase_url": "https://dicoding-c3ae7.firebaseio.com",
+    "project_id": "dicoding-c3ae7",
+    "storage_bucket": "dicoding-c3ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403487076076:android:9706be2a5ab92272",
+        "android_client_info": {
+          "package_name": "comm.example.asus_pc.traveltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403487076076-i96vr0n2rgga8n9okjgmah8133gh81f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comm.example.asus_pc.traveltalk",
+            "certificate_hash": "10fb1a17f3550021c6cd86b31dbb17b97acfbdfd"
+          }
+        },
+        {
+          "client_id": "403487076076-vssspr1g817prlbageee5odgjcchn9c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMP6t2_YSjfofGnnB4KOa1YkGbLGFEExM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403487076076-vssspr1g817prlbageee5odgjcchn9c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
